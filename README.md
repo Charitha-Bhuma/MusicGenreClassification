@@ -1,2 +1,2 @@
-# MusicGenreClassification using K Nearest Neighbou
+# MusicGenreClassification using K Nearest Neighbours
 Accuracy acquired : 61
